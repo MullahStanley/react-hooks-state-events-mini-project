@@ -8,8 +8,7 @@ console.log("Here's the data you're working with");
 console.log({ CATEGORIES, TASKS });
 
 function App() {
-  const tasks=TASKS;
-
+  
   return (
     <div className="App">
       <h2>My tasks</h2>
